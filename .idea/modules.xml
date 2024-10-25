@@ -3,6 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/3rd Semester.iml" filepath="$PROJECT_DIR$/3rd Semester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/week 6/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/Trial 1/Trial 1.iml" filepath="$PROJECT_DIR$/week 6/Trial 1/Trial 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/Trial 2/Trial 2.iml" filepath="$PROJECT_DIR$/week 6/Trial 2/Trial 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/Trial 3/Trial 3.iml" filepath="$PROJECT_DIR$/week 6/Trial 3/Trial 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/Trial 4/Trial 4.iml" filepath="$PROJECT_DIR$/week 6/Trial 4/Trial 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 7/Trial1/Trial1.iml" filepath="$PROJECT_DIR$/week 7/Trial1/Trial1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/answerforweek3/answerforweek3.iml" filepath="$PROJECT_DIR$/answerforweek3/answerforweek3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignans4/assignans4.iml" filepath="$PROJECT_DIR$/assignans4/assignans4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/assignment/assignment.iml" filepath="$PROJECT_DIR$/week5/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment2/assignment2.iml" filepath="$PROJECT_DIR$/assignment2/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classrelation/classrelation.iml" filepath="$PROJECT_DIR$/classrelation/classrelation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/experiment2/experiment2.iml" filepath="$PROJECT_DIR$/week5/experiment2/experiment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/experiment3/experiment3.iml" filepath="$PROJECT_DIR$/week5/experiment3/experiment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/experiment4/experiment4.iml" filepath="$PROJECT_DIR$/week5/experiment4/experiment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm/midterm.iml" filepath="$PROJECT_DIR$/midterm/midterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuff/stuff.iml" filepath="$PROJECT_DIR$/stuff/stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 7/task/task.iml" filepath="$PROJECT_DIR$/week 7/task/task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 6/week 6.iml" filepath="$PROJECT_DIR$/week 6/week 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 7/week 7.iml" filepath="$PROJECT_DIR$/week 7/week 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
     </modules>
   </component>
 </project>
